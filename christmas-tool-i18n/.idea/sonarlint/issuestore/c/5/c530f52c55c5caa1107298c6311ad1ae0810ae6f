@@ -1,0 +1,25 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(›Ë‰ªúÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(²ÅÜıÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Š²˜É
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¡µíô
+S	java:S106"9Replace this use of System.out or System.err by a logger.(’ù‹®üÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÿ¬ÉÈúÿÿÿÿ
+N	java:S106 "9Replace this use of System.out or System.err by a logger.(˜°è©
+N	java:S106#"9Replace this use of System.out or System.err by a logger.(…¼¶ì
+S	java:S106%"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+7	java:S131'""Add a default case to this switch.(™Ïêƒ
+S	java:S106)"9Replace this use of System.out or System.err by a logger.(ÓËúÏşÿÿÿÿ
+M	java:S106-"9Replace this use of System.out or System.err by a logger.(Ÿ¾¥;
+S	java:S1060"9Replace this use of System.out or System.err by a logger.(´è€Âÿÿÿÿÿ
+S	java:S1061"9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ
+S	java:S1066"9Replace this use of System.out or System.err by a logger.(ëĞú‚ıÿÿÿÿ
+S	java:S1067"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ
+S	java:S1068"9Replace this use of System.out or System.err by a logger.(“—í¦úÿÿÿÿ
+S	java:S106:"9Replace this use of System.out or System.err by a logger.(“—í¦úÿÿÿÿ
+N	java:S106C"9Replace this use of System.out or System.err by a logger.(²èä
+S	java:S106H"9Replace this use of System.out or System.err by a logger.(ˆšÑÖüÿÿÿÿ
+O
+java:S1128"4Remove this unused import 'java.time.LocalDateTime'.(æÃ§ƒüÿÿÿÿ
+O
+java:S1128"-Remove this unused import 'java.util.Locale'.(åğ×±ûÿÿÿÿ8·Ë¦ªÉ0
